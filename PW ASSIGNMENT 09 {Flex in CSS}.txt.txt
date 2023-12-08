@@ -1,0 +1,11 @@
+Q1. Describe the main differences between the CSS Flexbox layout model and the CSS Grid layout model. When would you choose to use one over the other?
+Q2. Explain the role of the following key properties in the Flexbox layout model
+1. justify-content
+2. align-items
+3. gap
+4. flex-direction
+5. flex-wrap
+Q3. Write the code to center a div using CSS Flexbox.
+Q4. A client of yours wants to add a pricing section on their website to showcase their newly introduced premium plans.
+You have to build the pricing section for their business. They have provided you with the figma design for the same. You can refer to the figma design and download the assets from the same.
+Q5. build a clone of the IRCTC Ticket booking page.
